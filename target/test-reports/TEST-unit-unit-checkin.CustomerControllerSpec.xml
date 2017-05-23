@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="DESKTOP-CQGCKMN" name="checkin.CustomerControllerSpec" skipped="0" tests="7" time="0.46" timestamp="2017-05-13T10:28:34">
+  <properties />
+  <testcase classname="checkin.CustomerControllerSpec" name="Test the index action returns the correct model" time="0.189" />
+  <testcase classname="checkin.CustomerControllerSpec" name="Test the create action returns the correct model" time="0.02" />
+  <testcase classname="checkin.CustomerControllerSpec" name="Test the save action correctly persists an instance" time="0.063" />
+  <testcase classname="checkin.CustomerControllerSpec" name="Test that the show action returns the correct model" time="0.024" />
+  <testcase classname="checkin.CustomerControllerSpec" name="Test that the edit action returns the correct model" time="0.022" />
+  <testcase classname="checkin.CustomerControllerSpec" name="Test the update action performs an update on a valid domain instance" time="0.075" />
+  <testcase classname="checkin.CustomerControllerSpec" name="Test that the delete action deletes an instance if it exists" time="0.05" />
+  <system-out><![CDATA[--Output from Test the index action returns the correct model--
+--Output from Test the create action returns the correct model--
+--Output from Test the save action correctly persists an instance--
+--Output from Test that the show action returns the correct model--
+--Output from Test that the edit action returns the correct model--
+--Output from Test the update action performs an update on a valid domain instance--
+--Output from Test that the delete action deletes an instance if it exists--
+]]></system-out>
+  <system-err><![CDATA[--Output from Test the index action returns the correct model--
+--Output from Test the create action returns the correct model--
+--Output from Test the save action correctly persists an instance--
+--Output from Test that the show action returns the correct model--
+--Output from Test that the edit action returns the correct model--
+--Output from Test the update action performs an update on a valid domain instance--
+--Output from Test that the delete action deletes an instance if it exists--
+]]></system-err>
+</testsuite>
